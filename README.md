@@ -95,16 +95,3 @@ Open the provided local URL (usually `http://localhost:8501`) in your browser.
 
 ---
 
-## 🛡️ Disclaimer
-This tool is intended for educational and ethical use only. Always follow [Houzz’s Terms of Use](https://www.houzz.com/termsOfUse).
-
----
-
-## 📬 Contact
-For questions, suggestions, or collaboration:
-- 📧 your.email@example.com
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-
----
-
-Made  using Python, Streamlit, and OpenAI.
